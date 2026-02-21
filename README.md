@@ -110,10 +110,15 @@ The Streamlit app provides an intuitive interface for fraud detection:
 2. Click "Check Transaction"
 3. View prediction result and fraud probability
 
+<img width="1032" height="931" alt="Screenshot 2026-02-21 232214" src="https://github.com/user-attachments/assets/a44e0375-2bbc-4ccf-a987-de935a6f2cc8" />
+<img width="1108" height="959" alt="Screenshot 2026-02-21 232353" src="https://github.com/user-attachments/assets/3a9cd3cf-6615-464b-bf69-82c1951db72c" />
+
+
 ## 📊 Model Performance
 
 | Model               | Accuracy |
 | ------------------- | -------- |
 | Logistic Regression | ~94%     |
 | Random Forest       | ~95%     |
+
 
