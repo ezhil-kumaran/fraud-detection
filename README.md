@@ -114,5 +114,6 @@ The Streamlit app provides an intuitive interface for fraud detection:
 
 | Model               | Accuracy |
 | ------------------- | -------- |
-| Logistic Regression | ~XX%     |
-| Random Forest       | ~XX%     |
+| Logistic Regression | ~94%     |
+| Random Forest       | ~95%     |
+
