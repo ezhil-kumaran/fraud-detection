@@ -1,4 +1,4 @@
-# 💳 Fraud Detection System
+# 💳 Fraud Detection System Using Scikit learn (Machine Learning)
 
 A machine learning-based fraud detection system that identifies fraudulent financial transactions using advanced classification algorithms. The project includes comprehensive data analysis, model comparison, and an interactive web application for real-time fraud detection.
 
@@ -120,5 +120,6 @@ The Streamlit app provides an intuitive interface for fraud detection:
 | ------------------- | -------- |
 | Logistic Regression | ~94%     |
 | Random Forest       | ~95%     |
+
 
 
